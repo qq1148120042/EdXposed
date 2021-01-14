@@ -1,0 +1,1 @@
+include ':edxp-core', ':ks-bridge', ':hiddenapi-stubs', ':dexmaker', ':dalvikdx', ':edxp-common', ':edxp-yahfa', ':edxp-sandhook', ':edxp-service', ':sandhook-hooklib', ':sandhook-annotation'
